@@ -34,7 +34,7 @@ first, install customtkinter:
 after that, run this command on terminal:
 - python3 /path/to/keytester.py
 
-##  İmages From the Program
+##  Images From the Program
 
 <img width="1366" height="768" alt="20250723_12h29m17s_grim" src="https://github.com/user-attachments/assets/e0a6665d-e94e-4051-bdf9-41d76a460fba" />
 
