@@ -12,9 +12,9 @@ It offers a user-friendly experience with features such as dark theme, level sel
 - 🌙 Light/Dark theme support
 - 🔄 Retry button
 - 🧾 README opening and help section (optional)
-- ✅ Support for `.msi` installation for Windows
-- ❌ No support for ".deb/.rpm" for linux distros. you can run the program by "python3" command.
-- ❌ Currently there is only Turkish language support. English language support may be added in the future.
+- ✅ Support for `.msi` installation for Windows. Not for english version :)
+- ❌ No support for ".deb/.rpm" for linux distros. you can run the program by "python3 or python" command.
+- ✅ Currently the program has English support. For now, you can only use with "python or python3" command. Cuz i didn't make any installer for Windows. Maybe another time :)
 
 
 
@@ -32,4 +32,18 @@ first, install customtkinter:
 - pip install customtkinter
   
 after that, run this command on terminal:
-- python3 keytester.py
+- python3 /path/to/keytester.py
+
+##  İmages From the Program
+
+<img width="1366" height="768" alt="20250723_12h29m17s_grim" src="https://github.com/user-attachments/assets/e0a6665d-e94e-4051-bdf9-41d76a460fba" />
+
+
+<img width="1366" height="768" alt="20250723_12h29m46s_grim" src="https://github.com/user-attachments/assets/d43f6658-4a87-4ae1-bc4c-5f1489abcff9" />
+
+
+<img width="1366" height="768" alt="20250723_12h30m19s_grim" src="https://github.com/user-attachments/assets/77b5cd73-6351-46d4-8fd6-6499d7131bca" />
+
+
+
+<img width="1366" height="768" alt="20250723_12h31m12s_grim" src="https://github.com/user-attachments/assets/832f2e5b-38c1-4fdf-8128-4513dfa56f2a" />
