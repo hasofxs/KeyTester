@@ -29,9 +29,10 @@ Download and run the `.msi` file. After the installation is complete, you can ru
 
 You can run it from the terminal on systems with Python 3:
 
-first, install customtkinter:
+first, install customtkinter and tkinter:
 - pip install customtkinter
-  
+- sudo dnf/apt/pacman -S/ install tkinter
+   
 after that, run this command on terminal:
 - python3 /path/to/keytester.py
 
