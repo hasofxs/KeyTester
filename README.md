@@ -1,17 +1,17 @@
-# ⌨️ KeyTester
+# ⌨️ KeyLytics
 **hasofxs** **tarafından %100 açık kaynaklı Python programı**
 
 **%100 open-source python program by ***hasofxs*****
 
-# ⌨️ KeyTester – Python ile Yazma Hızı (WPM) ve Doğruluk Test Programı
+# ⌨️ KeyLytics – Python ile Yazma Hızı (WPM) ve Doğruluk Test Programı
 
-**KeyTester**, klavye yazma hızınızı (WPM) ve doğruluk oranınızı ölçen, tamamen açık kaynaklı bir Python uygulamasıdır.  
+**KeyLytics**, klavye yazma hızınızı (WPM) ve doğruluk oranınızı ölçen, tamamen açık kaynaklı bir Python uygulamasıdır.  
 Dark mode, seviye seçimi, hedef belirleme, anlık istatistikler ve test geçmişi gibi özellikler sunar.  
 Linux ve Windows üzerinde çalışır, basit ve kullanıcı dostu bir arayüze sahiptir.
 
 > Geliştirici: [hasofxs](https://github.com/hasofxs) – katkılara açık!
 
-# What is KeyTester?
+# What is KeyLytics?
 KeyTester is a simple yet effective Python application that measures your typing speed and accuracy. 
 It offers a user-friendly experience with features such as dark theme, level selection, goal setting and statistics recording.
 
@@ -46,7 +46,7 @@ first, install customtkinter and tkinter:
 - **if you got error, try to enter venv.**
   
 after that, run this command on terminal:
-- python3 /path/to/keytester.py
+- python3 /path/to/keylytics/EN.py
 
 ##  Images From the Program
 
