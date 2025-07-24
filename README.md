@@ -1,5 +1,6 @@
 # ⌨️ KeyTester
-
+**%100 open-source python program by ***hasofxs*****
+# What is KeyTester?
 KeyTester is a simple yet effective Python application that measures your typing speed and accuracy. 
 It offers a user-friendly experience with features such as dark theme, level selection, goal setting and statistics recording.
 
