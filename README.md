@@ -43,7 +43,8 @@ You can run it from the terminal on systems with Python 3:
 first, install customtkinter and tkinter:
 - pip install customtkinter
 - sudo dnf/apt/pacman -S/ install tkinter
-   
+- **if you got error, try to enter venv.**
+-   
 after that, run this command on terminal:
 - python3 /path/to/keytester.py
 
